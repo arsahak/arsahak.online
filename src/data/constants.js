@@ -498,8 +498,9 @@ export const projects = [
     github: "#",
     webapp: "http://roqdecor.com/",
   },
+  
   {
-    id: 8,
+    id: 9,
     title: "GYM Website Design & Development",
     date: "Jan 2021",
     description:
@@ -510,6 +511,25 @@ export const projects = [
     category: "machine learning",
     github: "#",
     webapp: "http://www.agoga.com.au/",
+  },
+   {
+    id: 10,
+    title: "React Redux-toolkit-crud",
+    date: "Oct 2023",
+    description:
+      "This react redux toolkit demo project for pratics",
+    image:
+      "https://i.ibb.co/CHs36mF/Screenshot-3.png",
+    tags: [
+      "React Js",
+      "Redux Tookit",
+      "Node Js",
+      "Redux",
+      "Tailwind Css",
+    ],
+    category: "web app",
+    github: "https://github.com/arsahak/redux-toolkit-crud-app",
+    webapp: "https://redux-toolkit-crud-7anz902n1-ar-sahaks-projects.vercel.app/show-books",
   },
 ];
 
