@@ -163,12 +163,7 @@ const Contact = () => {
         <Desc>
           Feel free to reach out to me for any questions or opportunities!
         </Desc>
-        <Desc>Name: Reja A Rabbi Masum</Desc>
-        <Desc>Email: rejaarabbimasum2890@gmail.com</Desc>
-        <Desc>Phone: +8801793822125</Desc>
-        <Desc>
-          Address: 167 Free School Street Kalabagan, Dhaka - 1205, Bangladesh
-        </Desc>
+     
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
